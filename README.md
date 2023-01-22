@@ -3,7 +3,7 @@ Testing API
 
 # Создания базы данных с Sql Server 
 
-create table Users(
+	create table Users(
 
 	id int NOT NULL PRIMARY KEY,
 	name Varchar(200),
