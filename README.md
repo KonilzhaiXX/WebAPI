@@ -12,7 +12,7 @@ create table Users(
 
 	);
   
-  insert into users
+ 	insert into users
 	values(1, 'Arman', 'arman@gmail.com', '+77073456512');
 	
 	insert into users
